@@ -1,0 +1,37 @@
+Choose input mode - speech or chat: chat
+Enter your query: q
+Searching for: q
+Do you want to continue? (yes/no): 
+Choose input mode - speech or chat: soeech
+Do you want to continue? (yes/no): 
+Choose input mode - speech or chat: speech
+Listening for speech...
+Converted Speech to Text: external
+Converted Text: external
+Would you like to edit the text? (yes/no): 
+Searching for: external
+Do you want to continue? (yes/no): 
+Choose input mode - speech or chat: chat
+Enter your query: w
+Searching for: w
+Do you want to continue? (yes/no): speech
+Choose input mode - speech or chat: speech
+Listening for speech...
+Converted Speech to Text: scratches and consoles
+Converted Text: scratches and consoles
+Would you like to edit the text? (yes/no): yes
+Enter the edited text: and
+Searching for: and
+Do you want to continue? (yes/no): 
+Choose input mode - speech or chat: speech
+Listening for speech...
+afa
+Sorry, I did not understand that.
+Do you want to continue? (yes/no): Choose input mode - speech or chat: chat
+Enter your query: asdfj dsjfj rv c
+Searching for: asdfj dsjfj rv c
+Do you want to continue? (yes/no): v
+Choose input mode - speech or chat: 
+Do you want to continue? (yes/no): no
+
+Process finished with exit code 0
